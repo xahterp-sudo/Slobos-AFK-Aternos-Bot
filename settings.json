@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Хулио",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SpringRhino.aternos.me:54284",
+    "ip": "SpringRhino.aternos.me:",
     "port": 54284,
     "version": "1.21.11",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Вам тут не рады",
+        "Идите нахер",
+        "Дайте печеньки"
       ]
     },
     "chat-log": true,
