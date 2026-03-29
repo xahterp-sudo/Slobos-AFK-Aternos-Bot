@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SpringRhino.aternos.me",
+    "ip": "SpringRhino.aternos.me:54284",
     "port": 54284,
     "version": "1.21.11",
     "try-creative": false
